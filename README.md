@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Badreddine HANBALI!
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning enthusiast, currently a Data Scientist student.
+Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learning enthusiast, currently a Data Scientist Phd student.
 
 ## 🎓 Education
 - **Master's in Data Science & Machine Learning**  
-  *Faculty of Sciences, Dhar El Mahraz & University of Paris 13*
+  *Faculty of Sciences, Dhar El Mahraz & University Sorbonne Paris Nord*
 - **Bachelor's in Mathematical Sciences and Computer Science**  
   *Faculty of Sciences, El Jadida*
   
