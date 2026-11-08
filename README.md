@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist and Machine Learni
 
 ## 🎓 Education
 - **Master's in Data Science & Machine Learning**  
-  *Faculty of Sciences, Dhar El Mahraz & University Sorbonne Paris Nord*
+  *University Sorbonne Paris Nord **&** Faculty of Sciences, Dhar El Mahraz*
 - **Bachelor's in Mathematical Sciences and Computer Science**  
   *Faculty of Sciences, El Jadida*
   
